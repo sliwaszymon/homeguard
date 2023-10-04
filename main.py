@@ -13,7 +13,7 @@ from email.mime.multipart import MIMEMultipart
 
 
 email_sender = 'cygannostale@gmail.com'
-passwd = 'dfjw vbgd tgqf gjuh'
+passwd = ''
 email_receiver = 'szymon242820@gmail.com'
 
 
