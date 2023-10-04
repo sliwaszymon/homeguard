@@ -12,9 +12,9 @@ from email.mime.image import MIMEImage
 from email.mime.multipart import MIMEMultipart
 
 
-email_sender = 'cygannostale@gmail.com'
+email_sender = ''
 passwd = ''
-email_receiver = 'szymon242820@gmail.com'
+email_receiver = ''
 
 
 def send_email(count, time_now, filename):
