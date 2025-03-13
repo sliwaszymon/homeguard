@@ -51,7 +51,7 @@ Press `q` to exit the program.
 
 ## Example Screenshot 📸
 
-*(Example image of detection output can be added here)*
+*(Example image of detection output will be added soon)*
 
 ## Future Improvements ⚙
 
